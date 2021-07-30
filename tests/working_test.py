@@ -1,5 +1,5 @@
 
 #Testing working of API
 
-def check_running():
+def test_check_running():
     pass
