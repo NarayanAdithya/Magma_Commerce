@@ -3,7 +3,6 @@
 ### <h2>Hello🙏🏻, We are Team MAGMA!
   </br>
 # Members :raised_hand:
-
 * Aravind Harinarayanan
 * Adithya Narayan
 * Sonus Vareed
