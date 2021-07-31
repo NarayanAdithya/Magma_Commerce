@@ -11,19 +11,19 @@ from werkzeug.urls import url_parse
 
 @app.route('/')
 def home():
-    return "Hello"
+    return render_template('base.html')
 
 
 @app.route('/logout')
 def logout():
     db.session.commit()
     logout_user()
-    return redirect(url_for('index'))
+    return redirect(url_for('home'))
 
 @app.route('/login',methods=['GET','POST'])
 def login():
     if current_user.is_authenticated:
-        return redirect(url_for('index'))
+        return redirect(url_for('home'))
     # form=LoginForm()
     # if form.validate_on_submit():
     #     user=User.query.filter_by(email=form.email.data).first()

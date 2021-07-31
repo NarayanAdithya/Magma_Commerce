@@ -15,7 +15,7 @@ class User(UserMixin,db.Model):
     Region=db.Column(db.String(20))
     password_hash=db.Column(db.String(128))
     def __repr__(self):
-        return '<Role:{} Name:{} Id:{}>'.format(self.user_role,self.username,self.id)
+        return '< Name:{} Id:{}>'.format(self.username,self.id)
     def set_password(self,password):
         self.password_hash=generate_password_hash(password)
     def check_password(self,password):
