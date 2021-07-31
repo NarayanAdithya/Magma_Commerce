@@ -2,7 +2,12 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 ### <h2>Hello🙏🏻, We are Team MAGMA!
   </br>
-
+# Members :raised_hand# 
+* Aravind Harinarayanan
+* Adithya Narayan
+* Sonus Vareed
+# Track :
+* Open Innovation
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>We are a team and like to work in a team!!</em> 
 
 # E-COMMERCE <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
