@@ -11,7 +11,7 @@ from werkzeug.urls import url_parse
 
 @app.route('/')
 def home():
-    return render_template('base.html')
+    return render_template('home.html')
 
 
 @app.route('/logout')
@@ -35,5 +35,5 @@ def login():
     #     if not next_page or url_parse(next_page).netloc!='':
     #         next_page=url_for('index')
     #     return redirect(next_page)
-    # return render_template('signinpage.html',title='SignIn',form=form)
+    return render_template('signingpage.html',title='SignIn')
     return 1
