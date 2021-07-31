@@ -9,7 +9,7 @@
 * Sonus Vareed
 </br>
 # Track :
-* Open Innovation
+Open Innovation
 </br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>We are a team and like to work in a team!!</em> 
 
