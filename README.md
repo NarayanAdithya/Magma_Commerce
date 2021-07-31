@@ -17,7 +17,7 @@ Open Innovation
 
 We have all come across the problem of finding just the right course in the right website at the right time.Magma is here to help!
 Magma Commerce helps you to identify the perfect product at the perfect time whenever and wherever possible at your footsteps.
-
+The PPT is uploaded in the Github profile as well!
 
 
 
