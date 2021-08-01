@@ -1,0 +1,19 @@
+{
+  "name": "Magma_Commerce",
+  "version": "1.0.0",
+  "description": "![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)\r ### <h2>Hello🙏🏻, We are Team MAGMA!\r   </br>\r # Members :raised_hand:",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css":"npx tailwindcss src/index.css -o app/static/css/tailwind.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.7"
+  }
+}
